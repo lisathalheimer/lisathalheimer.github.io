@@ -12,7 +12,7 @@ redirect_from:
 
 I am a climate scientist based at the <a href='https://ehs.unu.edu/' target="_blank">United Nations University - Institute for Environment and Human Security </a> in Bonn, Germany. 
 
-I was a postdoctoral fellowship at Princeton University's Center for Policy Research on Energy and the Environment (<a href='https://cpree.princeton.edu/people/lisa-thalheimer' target="_blank">C-PREE</a>) from 2021 to 2022 with Prof. Michael Oppenheimer, completed a DPhil in in the field of Extreme Event Attribution and Climate Econometrics at the University of Oxford with <a href='https://www.imperial.ac.uk/people/f.otto' target="_blank">Prof. Fredi Otto</a>, and graduated with a MS in <a href='https://www.sustainability.ei.columbia.edu/' target="_blank">Sustainability Management</a> from Columbia University. 
+I was a postdoctoral fellow at Princeton University's Center for Policy Research on Energy and the Environment (<a href='https://cpree.princeton.edu/people/lisa-thalheimer' target="_blank">C-PREE</a>) from 2021 to 2022 with Prof. Michael Oppenheimer, completed a DPhil in in the field of Extreme Event Attribution and Climate Econometrics at the University of Oxford with <a href='https://www.imperial.ac.uk/people/f.otto' target="_blank">Prof. Fredi Otto</a>, and graduated with a MS in <a href='https://www.sustainability.ei.columbia.edu/' target="_blank">Sustainability Management</a> from Columbia University. 
 
 I regularily post research updates on Twitter.
 
