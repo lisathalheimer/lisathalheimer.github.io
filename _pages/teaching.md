@@ -1,15 +1,11 @@
 ---
-title: "Lectures in Climate Economics and Climate Change Attribution"
-collection: teaching
-type: "Undergraduate and graduate courses"
-permalink: /Lectures
-venue: "University of Oxford, Princeton University"
-location: "various"
-date: "2023-04-12"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a list of lectures I have given on climate economics and climate science applied to human responses to extreme weather events and climate change at the University of Oxford, Princeton University and the United Nations University.
-
+I view teaching as a core part of my responsibilities to equip students with an interdisciplinary skillset to build a more just and sustainable world.  I especially enjoy teaching courses that help students integrate multiple frameworks and tools to address a real-world problem.  At Columbia University, the University of Oxford and Princeton University, I have served as a teaching assistant in a variety of departments, including environmental studies and international development.  I have also co-developed a novel course, Climate Change and Conflict, which integrates climate and political science to examine how climate change will influence cooperation and conflict within and among nation-states.
 
 Como Training School on Compound Events (2022)
 ------
