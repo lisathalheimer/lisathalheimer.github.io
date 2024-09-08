@@ -6,11 +6,11 @@ main:
   - title: "Current Research"
     url: /research/
 
-  - title: "Teaching"
-    url: /teaching/ 
-
   - title: "Media"
-    url: /media/   
+    url: /media/    
+
+  - title: "Teaching"
+    url: /teaching/
     
 #  - title: "CV"
 #    url: /cv/   
