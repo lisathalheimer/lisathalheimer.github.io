@@ -11,9 +11,18 @@ Como Training School on Compound Events ( 2024 )
 ------
 updates on the 2024 training school will follow soon!
 
+Climate Change and Human Mobility ( 2024 )
+------
+Lecturer of a graduate course that examines the role of climate change on human mobility from a climate science, policy and human geography perspective.  Joint appointment between the United Nations University and the University of Bonn. 
+
+Climate Change and Conflict ( 2023 )
+------
+I co-created a course on climate change and conflict with Dr. Ethan Kapstein and Prof. Kristopher Ramsey from the Empirical Studies of Conflict Project at Princeton University to examine the intersections between climate science and political science. 
+
+
 Como Training School on Compound Events ( 2022 )
 ------
-Led a group project together with [Dr. Radley Horton](https://people.climate.columbia.edu/users/profile/radley-m-horton) on modeling pathways linking compound extremes and human displacement in the context of the 2022 Pakistan floods. 
+Led a group project together with [Prof. Radley Horton](https://people.climate.columbia.edu/users/profile/radley-m-horton) on modeling pathways linking compound extremes and human displacement in the context of the 2022 Pakistan floods. 
 <br> [project description](https://drive.google.com/file/d/1pvSD3Lmpsru_ti9vFfQEVU2NPDA96xps/view)
 <br>Students were provided with a hands-on application of the concepts of the [CLIMADA](https://wcr.ethz.ch/research/climada.html) economic modeling tool. 
 participants and lecturers. 
