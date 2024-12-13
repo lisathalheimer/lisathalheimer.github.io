@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I view teaching as a core part of my responsibilities to equip students with an interdisciplinary skillset to build a more just and sustainable world.  I especially enjoy teaching courses that help students integrate multiple frameworks and tools to address a real-world problem.  At Columbia University, the University of Oxford and Princeton University, I have served as a teaching assistant in a variety of departments, including environmental studies and international development.  I have also co-developed a novel course, Climate Change and Conflict, which integrates climate and political science to examine how climate change will influence cooperation and conflict within and among nation-states.
+I view teaching as a core part of my responsibilities to equip students with an interdisciplinary skillset to build a more just and sustainable world. I especially enjoy teaching courses that help students integrate multiple frameworks and tools to address a real-world problem. At Columbia University, the University of Oxford and Princeton University, I have served as a teaching assistant in a variety of departments, including environmental studies and international development. I have also co-developed a novel course, Climate Change and Conflict, which integrates climate and political science to examine how climate change will influence cooperation and conflict within and among nation-states.
+
 
 Como Training School on Compound Events ( 2024 )
 ------
@@ -17,7 +18,7 @@ Lecturer of a graduate course that examines the role of climate change on human 
 
 Climate Change and Conflict ( 2023 )
 ------
-I co-created a course on climate change and conflict with Dr. Ethan Kapstein and Prof. Kristopher Ramsey from the Empirical Studies of Conflict Project at Princeton University to examine the intersections between climate science and political science. 
+I co-created a course on climate change and conflict with Drs. Kapstein and Ramsey from the Empirical Studies of Conflict Project at Princeton University to examine the intersections between climate science and political science. The syllabus can be found [here](https://watson.brown.edu/climatesolutionslab/files/csl/imce/POL%20586%20Climate%20Change%20and%20Conflict_1_23_23_ebk_nh2_3%20%281%29%20%281%29.pdf).
 
 
 Como Training School on Compound Events ( 2022 )
