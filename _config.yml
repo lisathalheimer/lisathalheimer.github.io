@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lisa Thalheimer, DPhil"
   avatar           : "Lisa_June_25.JPG"
-  bio              : "Climate Change Attribution <br /> Climate Econometrics  <br /> Modelling Climate Migration"
-  location         : "United Nations University, Bonn"
+  bio              : "Climate Science <br /> Climate Econometrics  <br /> Health and Migration"
+  location         : "Harvard Data Science Initiative, Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0nAv_MEAAAAJ&hl=de"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=0&user=0nAv_MEAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Lisa_Thalheimer"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lisathalheimer"
+  github           : "Thalheimerl"
   google_plus      :
   keybase          :
   instagram        :
