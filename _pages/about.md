@@ -23,7 +23,7 @@ In my spare time, I can be found hiking with my 2-year-old, learning Yiddish (or
 ## Latest Research 
 ### Socio-economic dimensions of climate change, published in Nature Communications  
 We underscore the economic dimensions of involuntary immobility—a critical but often ignored consequence of climate change, where individuals and communities are unable to migrate away from high-risk areas due to financial, structural, and systemic barriers. While climate change intensifies natural hazards, economic constraints—such as poverty, lack of access to capital, and limited livelihood alternatives—prevent vulnerable populations from relocating, even when staying poses severe risks. In our study, we highlight how economic disparities exacerbate climate vulnerability: those with fewer resources face greater exposure to climate impacts and fewer options to escape them. Addressing this challenge requires policies that not only reduce economic barriers to migration but also invest in local adaptation, ensuring that climate action is equitable and supports both mobility and resilience for those who cannot or choose not to move. Without targeted economic interventions, climate change will deepen inequality and leave the most vulnerable populations further behind.
-\ 
+\
 Link to paper: <a href= 'https://www.nature.com/articles/s41467-025-57679-9' target="_blank">Thalheimer, L., Cottier, F., Kruczkiewicz, A., Hultquist, C., Tuholske, C., Benveniste, H., ... & Horton, R. M. (2025). Prioritizing involuntary immobility in climate policy and disaster planning. Nature Communications, 16(1), 2581.</a>
 
 ### Bayesian modeling assessing short-term conflict-displacement dynamics, published in Annals of Applied Statistics
