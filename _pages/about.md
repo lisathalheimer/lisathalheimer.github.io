@@ -19,10 +19,10 @@ My research approach is strongly interdisciplinary and collaborative, integratin
 3)	What disaster risk reduction mechanisms prepare populations and infrastructure before natural hazards turn into disasters?
 \
 4)	How is the rapid growth of AI-driven electricity demand reshaping electricity markets, grid reliability, and the distribution of environmental and health costs and benefits across communities?
+\
+5)	Can we predict the energy and health impacts of a proposed AI data center before it is built, to give communities, regulators, utilities, and developers a scientific, rigorous, and unbiased basis for deciding where facilities should &mdash; and should not &mdash; be sited? (See this <a href="https://hsph.harvard.edu/news/predicting-data-centers-energy-and-health-impacts/" target="_blank">Harvard Chan School write-up</a> of our Frontiers of Innovation for Societal Impact-funded project with Francesca Dominici and Le Xie.)
 
 At the Dominici Lab, I also serve as Guest Editor, with Francesca Dominici and Shaolei Ren (UC Riverside), of a collection in the Nature Portfolio journal <em>npj Climate Action</em> on the health and environmental impacts of AI data centers.
-
-In my spare time, I can be found hiking with my 2-year-old, learning Yiddish (or trying to?) and embracing 'ready, steady, cook' sessions, creating sustainable new recipes from leftovers. 
 
 ## Latest Research 
 ### Environmental and health impacts of the AI data center boom, working paper with Kevin Butler and Francesca Dominici
